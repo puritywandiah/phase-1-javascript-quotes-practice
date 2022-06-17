@@ -1,3 +1,23 @@
 #quote-list {
   padding: 20px;
 }
+
+
+.btn-success {
+  width: 5rem;
+  height: 3rem;
+  background-color: #eededf;
+  border-radius: 4rem;
+  border-color: azure;
+  color: black;
+  margin-left: 6%;
+}
+
+.btn-danger {
+  width: 5rem;
+  height: 3rem;
+  background-color: #dfdeee;
+  border-radius: 4rem;
+  border-color: azure;
+  color: black;
+}
